@@ -1,0 +1,2 @@
+PS. 1Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable (uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, as that's all I have :-(.
+— Linus Torvalds
